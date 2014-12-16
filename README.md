@@ -19,7 +19,7 @@ ip 寫在程式裡面，預設為 localhost，port 為自行輸入
     $ python server.py 8880
     $ python client.py 8880
     
-server 以prot 8880開啟
+server 以prot 8880開啟  
 client 以prot 8880連線
 
 ###reference
