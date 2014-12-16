@@ -24,6 +24,6 @@ client 以prot 8880連線
 
 ###reference
 --------------
-[socket document](https://docs.python.org/2/library/socket.html)
-[Python socket – network programming tutorial](http://www.binarytides.com/python-socket-programming-tutorial/)
-[Python socket – network programming tutorial 中文翻譯](http://www.oschina.net/question/12_76126)
+[socket document](https://docs.python.org/2/library/socket.html)  
+[Python socket – network programming tutorial](http://www.binarytides.com/python-socket-programming-tutorial/)  
+[Python socket – network programming tutorial 中文翻譯](http://www.oschina.net/question/12_76126)  
